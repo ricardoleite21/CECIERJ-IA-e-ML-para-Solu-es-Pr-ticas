@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+
+# Data/output
+data/raw/
+data/tmp/
+reports/*.html
+reports/*.pdf
